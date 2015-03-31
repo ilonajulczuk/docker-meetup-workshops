@@ -5,6 +5,7 @@ Hi! Here are some instructions to get you started.
 
 # Installing docker
 
+Docker runs only on GNU/Linux 64 bit. If you're using MacOS or Windows (or strange Linux distro), you should consider installing Virtual Machine with Linux and install docker on it.
 
 Install vagrant with ubuntu 14.04 64bit, or just make sure that you have a similar distro on your laptop.
 
